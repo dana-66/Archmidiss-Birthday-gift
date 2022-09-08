@@ -61,28 +61,28 @@ h1, h2, h3, p, h4 {
     margin: 40px auto;
     width: 500px;
     height:550px;
-    background-image: url("image/gift.webp");
+    background-image: url("../image/gift.webp");
     background-size: cover;
     border: 6px solid #877EA0 ;
     border-radius: 10px;
 }
 #happy:hover {
-    background-image: url("image/200\ \(1\).webp");
+    background-image: url("../image/200\ \(1\).webp");
     background-size: cover;
 }
 
 #roomReact:hover {
-    background-image: url("image/terified.webp");
+    background-image: url("../image/terified.webp");
     background-size: cover;
 }
 
 #oneword:hover {
-    background-image: url("image/m.webp");
+    background-image: url("../image/m.webp");
     background-size: contain;
 }
 
 #badass:hover {
-    background-image: url("image/alderIsTheGOAT.webp");
+    background-image: url("../image/alderIsTheGOAT.webp");
     background-size: cover;
 }
 
@@ -91,7 +91,7 @@ h1, h2, h3, p, h4 {
     background-size: contain;
 }
 #areyouthee:hover {
-    background-image: url("image/areuthere.webp");
+    background-image: url("../image/areuthere.webp");
     background-size: cover;
 }
 footer {
